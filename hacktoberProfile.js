@@ -660,6 +660,11 @@ var profiles = [
     github : "ferdox2"
   },
   {
+    name : "Amol Kumar",
+    place : "Montreal, Canada",
+    github : "Rockindash"
+  },
+  {
     name: "Shubham Panth",
     place: "Stockholm, Sweden",
     github: "NOVA52"
